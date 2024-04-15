@@ -19,3 +19,9 @@ wayto Azure cloud
     * Disaster Recovery
     * Load Balancing
 
+### Getting Started with Azure
+* Creating an Account with Azure
+* Exploring Regions and Availability Zones in Azure
+* IaaS vs PaaS vs SaaS models in Azure
+
+### 
