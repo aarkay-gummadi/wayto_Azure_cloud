@@ -1,1 +1,1 @@
-# wayto_Azure_cloud
+# wayto_Azure_cloud.
